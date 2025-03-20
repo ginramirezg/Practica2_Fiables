@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Users/ginar/Downloads/MaterialPractica 2/divisor_3c.vhd" \
+"../../../../../../Users/ginar/Downloads/MaterialPractica 2/tb_divisor_3c.vhd" \
+
+# Do not sort compile order
+nosort
